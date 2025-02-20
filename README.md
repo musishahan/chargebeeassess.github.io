@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script src="https://js.chargebee.com/v2/chargebee.js" data-cb-site="chargebee-assessment4-test" ></script>
     <title>Pricing Plans</title>
     <style>
         body {
@@ -82,7 +81,7 @@
                 <li>5 GB Storage</li>
                 <li>Basic Support</li>
             </ul>
-            <a href="javascript:void(0)" data-cb-type="checkout" data-cb-item-0="Go-Plan-USD-Monthly" class="cta-button">Get Started</a>
+            <a href="#" class="cta-button">Get Started</a>
         </div>
 
         <!-- Rise Plan -->
@@ -94,7 +93,7 @@
                 <li>25 GB Storage</li>
                 <li>Priority Support</li>
             </ul>
-            <a href="javascript:void(0)" data-cb-type="checkout" data-cb-item-0="Rise-Plan-USD-Monthly" class="cta-button">Get Started</a>
+            <a href="#" class="cta-button">Get Started</a>
         </div>
 
         <!-- Scale Plan -->
@@ -106,7 +105,7 @@
                 <li>100 GB Storage</li>
                 <li>24/7 Support</li>
             </ul>
-            <a href="javascript:void(0)" data-cb-type="checkout" data-cb-item-0="Scale-Plan-USD-Monthly" class="cta-button">Get Started</a>
+            <a href="#" class="cta-button">Get Started</a>
         </div>
     </div>
 </body>
